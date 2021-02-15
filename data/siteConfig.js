@@ -34,14 +34,14 @@ module.exports = {
   ],
   jobs: [
     {
-      company: "A",
+      company: "Home Product Center Public Company Limited",
       begin: {
         month: 'Mar',
         year: '2021'
       },
       duration: null,
       occupation: "System Analyst",
-      description: "A"
+      description: "AAAAAAAAAAAAAAAAAAAAAAAAAA"
   
     },  {
       company: "Adev Solution Plus Co., Ltd.",
