@@ -5,99 +5,93 @@ module.exports = {
   authorName: 'Thiti Tongumpun',
   githubUsername: 'thititongumpun',
   authorAvatar: '/images/dog.jpeg',
-  authorDescription: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`,
+  authorDescription: `My name is Thiti Tongumpun. Age 27 Years old. <strong></strong> `,
   skills: [
     {
-      name: 'A',
-      level: 70
+      name: 'C#',
+      level: 80
     },
     {
-      name: 'B',
-      level: 60
+      name: 'JavaScript',
+      level: 80
     },
     {
-      name: 'C',
-      level: 50
+      name: 'DevOps',
+      level: 80
     },
     {
-      name: 'D',
-      level: 40
+      name: 'Python',
+      level: 80
     },
     {
-      name: 'E',
-      level: 60
+      name: 'DevOps',
+      level: 80
     },
     {
-      name: 'F',
-      level: 70
+      name: 'Git',
+      level: 80
     },
   ],
   jobs: [
     {
       company: "A",
       begin: {
-        month: 'sep',
-        year: '2019'
+        month: 'Mar',
+        year: '2021'
       },
       duration: null,
-      occupation: "A",
+      occupation: "System Analyst",
       description: "A"
   
     },  {
-      company: "B",
+      company: "Adev Solution Plus Co., Ltd.",
       begin: {
-        month: 'apr',
-        year: '2018'
+        month: 'sep',
+        year: '2020'
       },
-      duration: null,
-      occupation: "B",
-      description: "B"
+      duration: "7 Months",
+      occupation: "Developer",
+      description: "Software Developer, DevOps"
   
     }, {
-      company: "C",
+      company: "THAI-Amadeus Southeast Asia Co.,Ltd.",
       begin: {
-        month: 'dec',
-        year: '2016'
+        month: 'Jan',
+        year: '2019'
       },
-      duration: 'C',
-      occupation: "C",
-      description: "C"
+      duration: '1 year',
+      occupation: "Business Development",
+      description: "Frontend Developer, Analysis Business Corporate Plan, Flow-Chart for organization"
     }, {
-      company: "D",
+      company: "THAI-Amadeus Southeast Asia Co.,Ltd.",
       begin: {
-        month: 'set',
-        year: '2012'
+        month: 'Jan',
+        year: '2018'
       },
-      duration: 'D',
-      occupation: "D",
-      description: "D"
+      duration: '1 year',
+      occupation: "Technical Support",
+      description: "Build Test Deploy System, Frontend Developer"
   
     },
   ],
   portifolio: [
     {
-      image: "/images/gatsby-starter-cv.png",
-      description: "Gatsby starter CV template",
-      url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
-    },
-    {
-      image: "/images/awesome-grid.png",
-      description: "Responsive grid for ReactJS",
-      url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
+      image: "/images/git.jpeg",
+      description: "GitHub",
+      url: "https://github.com/thititongumpun"
     },
   ],
   social: {
     github: "https://github.com/thititongumpun",
     email: "thiti180536@gmail.com"
   },
-  siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
+  siteUrl: 'https://github.com/thititongumpun',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/bg.jpeg',
-  // googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
   theme_color: '#25303B',
   fontColor: "#000000cc",
-  enableDarkmode: true, // If true, enables dark mode switch
+  enableDarkmode: true,
   display: 'minimal-ui',
   icon: 'src/assets/gatsby-icon.png',
   headerLinks: [
