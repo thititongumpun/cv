@@ -86,7 +86,7 @@ module.exports = {
     email: "thiti180536@gmail.com"
   },
   siteUrl: 'https://github.com/thititongumpun',
-  pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/bg.jpeg',
   background_color: '#ffffff',
   theme_color: '#25303B',
