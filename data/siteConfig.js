@@ -77,7 +77,7 @@ module.exports = {
   portifolio: [
     {
       image: "/images/git.jpeg",
-      description: "GitHub",
+      description: null,
       url: "https://github.com/thititongumpun"
     },
   ],
