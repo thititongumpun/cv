@@ -13,18 +13,18 @@ module.exports = {
     },
     {
       name: 'JavaScript',
-      level: 80
-    },
-    {
-      name: 'DevOps',
-      level: 80
+      level: 75
     },
     {
       name: 'Python',
       level: 80
     },
     {
-      name: 'DevOps',
+      name: 'GO',
+      level: 40
+    },
+    {
+      name: 'Containers',
       level: 80
     },
     {
