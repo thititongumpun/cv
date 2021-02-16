@@ -5,7 +5,7 @@ module.exports = {
   authorName: 'Thiti Tongumpun',
   githubUsername: 'thititongumpun',
   authorAvatar: '/images/dog.jpeg',
-  authorDescription: `My name is Thiti Tongumpun. Age 27 Years old. <strong></strong> `,
+  authorDescription: `My name is Thiti Tongumpun. Age 27 Years Old. <strong></strong> `,
   skills: [
     {
       name: 'C#',
@@ -20,8 +20,8 @@ module.exports = {
       level: 80
     },
     {
-      name: 'GO',
-      level: 40
+      name: 'HTML/CSS',
+      level: 70
     },
     {
       name: 'Containers',
