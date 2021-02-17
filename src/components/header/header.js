@@ -100,7 +100,7 @@ const Header = ({ location, onChangeTheme, theme }) => {
         {siteConfig.enableDarkmode && <SwitchWrapper >
           <StyledSwitch 
             onChange={onChangeTheme} 
-            checked={theme === 'light'}
+          checked={theme === 'dark'}
             onColor="#212121"
             offColor="#212626262121"
             checkedIcon={<IconWrapper><FiMoon color="white" /></IconWrapper>}
