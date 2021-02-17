@@ -87,7 +87,7 @@ module.exports = {
   },
   siteUrl: 'https://github.com/thititongumpun',
   pathPrefix: '/cv', // Note: it must *not* have a trailing slash.
-  siteCover: null,
+  siteCover: '/images/bg.jpeg',
   background_color: '#ffffff',
   theme_color: '#25303B',
   fontColor: "#000000cc",
