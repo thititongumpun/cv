@@ -80,6 +80,11 @@ module.exports = {
       description: null,
       url: "https://github.com/thititongumpun"
     },
+    {
+      image: "/images/food.jpg",
+      description: null,
+      url: "https://foodgenerate.herokuapp.com/"
+    }
   ],
   social: {
     github: "https://github.com/thititongumpun",

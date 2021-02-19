@@ -102,7 +102,7 @@ const Header = ({ location, onChangeTheme, theme }) => {
             onChange={onChangeTheme} 
           checked={theme === 'dark'}
             onColor="#212121"
-            offColor="#212626262121"
+            offColor="#626262"
             checkedIcon={<IconWrapper><FiMoon color="white" /></IconWrapper>}
             uncheckedIcon={<IconWrapper><FiSun color="yellow" /></IconWrapper>}
           />
