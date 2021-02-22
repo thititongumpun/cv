@@ -83,7 +83,7 @@ module.exports = {
     {
       image: "/images/food.jpg",
       description: null,
-      url: "https://foodgenerate.herokuapp.com/"
+      url: "https://thititongumpun.github.io/FoodGenerate/"
     }
   ],
   social: {
