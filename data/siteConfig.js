@@ -76,7 +76,7 @@ module.exports = {
   ],
   portifolio: [
     {
-      image: "/images/git.jpeg",
+      image: "/images/github.png",
       description: null,
       url: "https://github.com/thititongumpun"
     },
@@ -84,7 +84,12 @@ module.exports = {
       image: "/images/food.jpg",
       description: null,
       url: "https://thititongumpun.github.io/FoodGenerate/"
-    }
+    },
+    {
+      image: "/images/covid.jpg",
+      description: null,
+      url: "https://thititongumpun.github.io/th-covid-stats/"
+    }    
   ],
   social: {
     github: "https://github.com/thititongumpun",
