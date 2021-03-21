@@ -13,23 +13,23 @@ module.exports = {
     },
     {
       name: 'JavaScript',
-      level: 75
-    },
-    {
-      name: 'Python',
       level: 80
     },
     {
-      name: 'HTML/CSS',
+      name: 'Python',
       level: 70
+    },
+    {
+      name: 'Git',
+      level: 85
     },
     {
       name: 'Containers',
       level: 80
     },
     {
-      name: 'Git',
-      level: 80
+      name: 'Google',
+      level: 100
     },
   ],
   jobs: [
@@ -41,7 +41,7 @@ module.exports = {
       },
       duration: null,
       occupation: "System Analyst",
-      description: "AAAAAAAAAAAAAAAAAAAAAAAAAA"
+      description: "Gathering user requirement with team software development and managing software development team., Assists in the design, coding and testing the system of technical solutions."
   
     },  {
       company: "Adev Solution Plus Co., Ltd.",
@@ -49,9 +49,9 @@ module.exports = {
         month: 'sep',
         year: '2020'
       },
-      duration: "7 Months",
+      duration: "7 Months (3 Months for Siam Piwat Consulting",
       occupation: "Developer",
-      description: "Software Developer, DevOps"
+      description: "Software Developer, DevOps (Siam Piwat)"
   
     }, {
       company: "THAI-Amadeus Southeast Asia Co.,Ltd.",
