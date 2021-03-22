@@ -89,7 +89,12 @@ module.exports = {
       image: "/images/covid.jpg",
       description: null,
       url: "https://thititongumpun.github.io/th-covid-stats/"
-    }    
+    },
+    {
+      image: "/images/github_actions.png",
+      description: null,
+      url: "https://thititongumpun.github.io/vuejs-cicd/"
+    }  
   ],
   social: {
     github: "https://github.com/thititongumpun",
