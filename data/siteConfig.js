@@ -5,7 +5,7 @@ module.exports = {
   authorName: 'Thiti Tongumpun',
   githubUsername: 'thititongumpun',
   authorAvatar: '/images/dog.jpeg',
-  authorDescription: `My name is Thiti Tongumpun. Age 27 Years Old. <strong></strong> `,
+authorDescription: `My name is <strong>Thiti Tongumpun.</strong> Age 27 Years Old. Current Working for System Analyst at Homepro Co.,Ltd. `,
   skills: [
     {
       name: 'C#',
@@ -49,7 +49,7 @@ module.exports = {
         month: 'sep',
         year: '2020'
       },
-      duration: "7 Months (3 Months for Siam Piwat Consulting",
+      duration: "7 Months (3 Months for Siam Piwat Consulting)",
       occupation: "Developer",
       description: "Software Developer, DevOps (Siam Piwat)"
   
@@ -108,7 +108,7 @@ module.exports = {
   fontColor: "#000000cc",
   enableDarkmode: true,
   display: 'minimal-ui',
-  icon: 'src/assets/gatsby-icon.png',
+  icon: 'src/assets/resume.png',
   headerLinks: [
     {
       label: 'Home',
