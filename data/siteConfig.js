@@ -94,7 +94,12 @@ authorDescription: `My name is <strong>Thiti Tongumpun.</strong> Age 27 Years Ol
       image: "/images/github_actions.png",
       description: null,
       url: "https://thititongumpun.github.io/vuejs-cicd/"
-    }  
+    }, 
+    {
+      image: "/images/shopping.png",
+      description: null,
+      url: "https://github.com/thititongumpun/shopping-cart/"
+    } 
   ],
   social: {
     github: "https://github.com/thititongumpun",
