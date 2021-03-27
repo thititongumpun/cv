@@ -83,7 +83,7 @@ authorDescription: `My name is <strong>Thiti Tongumpun.</strong> Age 27 Years Ol
     {
       image: "/images/food.jpg",
       description: null,
-      url: "https://thititongumpun.github.io/FoodGenerate/"
+      url: "https://thititongumpun.github.io/food-generate/"
     },
     {
       image: "/images/covid.jpg",
