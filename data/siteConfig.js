@@ -36,7 +36,7 @@ authorDescription: `My name is <strong>Thiti Tongumpun.</strong> Age 27 Years Ol
     {
       company: "Home Product Center Public Company Limited",
       begin: {
-        month: 'Mar',
+        month: 'Jan',
         year: '2021'
       },
       duration: null,
