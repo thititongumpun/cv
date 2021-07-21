@@ -5,7 +5,7 @@ module.exports = {
   authorName: 'Thiti Tongumpun',
   githubUsername: 'thititongumpun',
   authorAvatar: '/images/dog.jpeg',
-authorDescription: `My name is <strong>Thiti Tongumpun.</strong> Age 27 Years Old. Current Working for System Analyst at Homepro Co.,Ltd. `,
+authorDescription: `My name is <strong>Thiti Tongumpun.</strong> Age 28 Years old. Study master degree IT KMUTNB. `,
   skills: [
     {
       name: 'C#',
@@ -34,14 +34,14 @@ authorDescription: `My name is <strong>Thiti Tongumpun.</strong> Age 27 Years Ol
   ],
   jobs: [
     {
-      company: "Home Product Center Public Company Limited",
+      company: "Dosetech Co.",
       begin: {
-        month: 'Jan',
+        month: 'June',
         year: '2021'
       },
       duration: null,
-      occupation: "System Analyst",
-      description: "Gathering user requirement with team software development and managing software development team., Assists in the design, coding and testing the system of technical solutions."
+      occupation: "Software Developer",
+      description: "Backend Developer"
   
     },  {
       company: "Adev Solution Plus Co., Ltd.",
